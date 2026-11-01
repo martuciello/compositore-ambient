@@ -9,7 +9,7 @@ Il file `index.html` è compresso: il codice leggibile resta nell'archivio dell'
 ## Pubblicazione
 
 La pagina è pubblicata con **GitHub Pages** dal branch `main`, cartella principale:
-`https://martuciello.github.io/compositore-ambient./`
+`https://martuciello.github.io/compositore-ambient/`
 
 Ogni nuovo caricamento su `main` si pubblica da solo in uno o due minuti.
 
