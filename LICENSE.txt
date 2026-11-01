@@ -1,0 +1,18 @@
+Compositore Ambient
+Copyright © 2026 Mauro. Tutti i diritti riservati.
+
+Il codice sorgente, la logica di composizione, le librerie di pattern (armonie,
+figure di mano sinistra, celle melodiche) e l'interfaccia di questo programma sono
+opera dell'autore e sono protetti dal diritto d'autore.
+
+Senza autorizzazione scritta dell'autore è vietato copiare, modificare, adattare,
+tradurre, distribuire, pubblicare o usare a fini commerciali, in tutto o in parte,
+il codice e i contenuti di questo programma. È consentito soltanto l'uso del
+programma tramite l'indirizzo in cui l'autore lo pubblica.
+
+Componenti di terzi inclusi, ciascuno con la propria licenza:
+- lib/mp4-muxer.js — mp4-muxer di Vanilagy, licenza MIT (lib/mp4-muxer.LICENSE.txt).
+- samples/ — Salamander Grand Piano di Alexander Holm, licenza CC BY 3.0.
+- inst/ — campioni da Versilian Studios VSCO 2 Community Edition (CC0) e da
+  Freesound (quartertone, donyaquick), raccolti e rielaborati in tonejs-instruments
+  di Nicholaus Brosowsky, licenza CC BY 3.0.
